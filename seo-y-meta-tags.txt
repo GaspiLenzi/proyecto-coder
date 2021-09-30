@@ -1,0 +1,58 @@
+En index:
+
+Cambié título: 
+Home -> Inicio | KEL Disegno
+
+Añadí meta tags: 
+Keywords: Muebleria en tigre, Muebles rusticos, Muebles modernos, Pagina de muebles, Kel, Diseño interiores, Diseño
+Description: Nos dedicamos a la venta y elaboración de muebles rusticos y modernos, ademas asesoramiento en diseño y decoración
+
+---------------------
+
+En Living:
+
+Cambié título: Living-> Living | KEL Disegno
+
+Añadí meta tags:
+Keywords: Living, Diseño de living, Muebles para living, Decoracion de living, Living moderno, Living rustico
+Description: Muebles e ideas para diseñar tu living
+
+---------------------
+
+En Habitación:
+
+Cambié título: Habitación-> Habitación| KEL Disegno
+
+Añadí meta tags:
+Keywords: Habitacion, Cuarto, Muebles para cuarto, Diseño de habitacion, Muebles para habitacion, Decoracion de habitacion, Habitacion moderna, Habitacion rustica
+Description: Muebles e ideas para diseñar tu habitación
+
+---------------------
+
+En Decoración:
+
+Cambié título: Decoración-> Decoración| KEL Disegno
+
+Añadí meta tags:
+Keywords: Decoración, Diseño, Diseño de interiores, Ideas para decorar, Diseño de exteriores
+Description: Ideas para decorar tu hogar
+
+---------------------
+
+En Comedor:
+
+Cambié título: Comedor-> Comedor| KEL Disegno
+
+Añadí meta tags:
+Keywords: Comedor, Diseño de comedor, Muebles para comedor, Decoracion de comedor, Comedor moderno, Comedor rustico
+Description: Muebles e ideas para diseñar tu comedor
+
+---------------------
+
+En Baño:
+
+Cambié título: Baño-> Baño| KEL Disegno
+
+Añadí meta tags:
+Keywords: Baño, Diseño de baño, Muebles para baño, Decoracion de baño, Baño moderno, Baño rustico
+Description: Muebles e ideas para diseñar tu baño
