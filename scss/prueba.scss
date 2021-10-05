@@ -327,9 +327,13 @@ nav {
 
     .main-grid {
 
-        .grid-sections {
-            display: none;
-            grid-template-columns: 0% 100%;
+        display: inline;
+        
+        div {
+            align-self: center;
+            text-align: center;
+            margin-bottom: 10px;
+            margin-top: 10px;
         }
 
         .grid-items {
