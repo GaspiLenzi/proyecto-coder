@@ -139,6 +139,11 @@ footer {
     footer section div ul {
       list-style-type: none;
       padding: 0; }
+      footer section div ul li a {
+        text-decoration: none;
+        color: #427553;
+        font-family: 'Urbanist', sans-serif;
+        font-weight: 500; }
     footer section div p {
       font-size: 0.8em; }
     footer section div iframe {
